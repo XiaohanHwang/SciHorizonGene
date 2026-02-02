@@ -1,0 +1,9 @@
+tqdm
+langchain-community 
+openai
+pandas
+numpy==1.26.2 # 1.26.2 is the basic version that supports sklearn, padas, langchain-community, etc.
+requests
+langchain-openai
+sentence_transformers
+scikit-learn
