@@ -9,7 +9,7 @@ This repository provides datasets, prompt templates, evaluation metrics, and a c
 ## 🌐 Project Website
 
 For more information about the SciHorizon project and related benchmarks, please visit:  
-👉 https://horizon.scidb.cn
+👉 https://horizon.scidb.cn/verticalCategory/SciHorizonGene
 
 ---
 
